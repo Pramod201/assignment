@@ -1,0 +1,175 @@
+body {
+    font-family: "Inter";
+    background-color: #e5e5e5;
+
+}
+
+
+.title-text {
+    color: white;
+    font-family: "Inter";
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 77px;
+    letter-spacing: -1.4px;
+}
+
+.demo-text {
+    font-family: "Inter";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.72px;
+}
+
+
+.nav {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    gap: 84px;
+
+}
+
+.header-container-fluid {
+
+    margin-left: 40px;
+}
+
+.banner {
+    background-color: #0032E3;
+    padding-bottom: 140px;
+}
+
+.demo {
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+
+
+.nav-text {
+
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 132.6%;
+    letter-spacing: -0.32px;
+    text-decoration: none;
+
+}
+
+
+.banner-content {
+    color: #BCCBFE;
+    font-size: 18px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.6%;
+    letter-spacing: -0.36px;
+}
+
+
+.banner-box {
+
+    padding-top: 160px;
+
+
+
+}
+
+.btn-navbar {
+    background: transparent;
+    border: 0px;
+    color: white;
+
+
+}
+
+
+.btn-main {
+    color: #FFF;
+    display: inline-flex;
+    padding: 12px 42px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: transparent;
+    border: 1px solid #FFF;
+    margin-left: 12px;
+}
+
+.logo-text {
+    color: #FFF;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.58px;
+    text-decoration: none;
+}
+
+
+.absolute-img {
+    position: absolute;
+    margin-top: 7px;
+}
+
+p {
+    color: #6D6D6D;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.32px;
+    padding-bottom: 10px;
+}
+
+.rick-img {
+    border-radius: 8px;
+    width: 498px;
+    height: 564px;
+}
+
+
+.story-box {
+    margin-left: 40px;
+    padding-top: 120px;
+
+
+
+}
+
+.story-text {
+    font-family: "Inter";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.72px;
+    padding-bottom: 10px;
+}
+
+.story-content{
+    padding-top: 10px;
+
+}
+
+.btn-demo {
+    color: white;
+    display: inline-flex;
+    padding: 16px 42px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background:#0032e3;
+    border: 1px solid rgb(255, 255, 255);
+  
+}
